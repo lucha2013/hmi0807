@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmi0807", "hmi0807\hmi0807.csproj", "{C594A600-A0CA-499E-AC02-5C171793D132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVControls", "kvcontrol0806\KVControls\KVControls.csproj", "{C4F73361-F169-4419-BF10-85BDB1012146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVDrive", "Project2\KVDrive.csproj", "{C0C71986-B7DB-47FC-8AA2-7A6626FB729A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C594A600-A0CA-499E-AC02-5C171793D132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C594A600-A0CA-499E-AC02-5C171793D132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C594A600-A0CA-499E-AC02-5C171793D132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C594A600-A0CA-499E-AC02-5C171793D132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F73361-F169-4419-BF10-85BDB1012146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F73361-F169-4419-BF10-85BDB1012146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F73361-F169-4419-BF10-85BDB1012146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F73361-F169-4419-BF10-85BDB1012146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C71986-B7DB-47FC-8AA2-7A6626FB729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C71986-B7DB-47FC-8AA2-7A6626FB729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C71986-B7DB-47FC-8AA2-7A6626FB729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C71986-B7DB-47FC-8AA2-7A6626FB729A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A7A2AA-9264-4BB3-A640-7384EFA634C2}
+	EndGlobalSection
+EndGlobal
